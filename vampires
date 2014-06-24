@@ -1,0 +1,7 @@
+def loaddata (filename) :
+    #open CSV file with name filename & read contents
+    #of file into a list of lists
+    
+    import csv
+    
+    reader = csv.reader(open('CVC)data.csv', 'r'))

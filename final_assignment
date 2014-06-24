@@ -1,0 +1,21 @@
+#Part1: Get started
+    #chosing heapsort
+    #have to do two three things
+    #1)impliment it in python
+    #2)test implementation to make sure it works
+    #3) write a brief description of how good you think the 
+    #sorting alg is (how many loops does it have to do with n elements)
+    
+    
+    #have to implement sorting based on someone else’s description
+    
+#part 2: data analytics
+    #find your own dataset
+    #http://archive.ics.uci.edu/ml/datasets/Bank+Marketing
+    
+    #going to 
+    #1) pick a data set
+    #2) figure out how to load in python
+    #3) do 2 different visualizations of the data, and interpret them
+    #4) Use two different machine learning approaches to analyze, 
+    #and interpret your data.

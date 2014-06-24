@@ -1,0 +1,19 @@
+ def my_function(inlist):
+
+            done = False
+
+            while not done:
+                  done = True
+
+                  i=0
+                  while i < len(inlist):
+                     print i
+                     if inlist[i] > inlist[i+1]:
+                        tmp = inlist[i]
+                        inlist[i]=inlist[i+1]
+                        inlist[i+1]=tmp
+                        done = False
+                     i += 1
+
+            return inlist
+            
